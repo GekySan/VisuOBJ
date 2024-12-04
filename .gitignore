@@ -1,7 +1,6 @@
 *.exe
 *.dll
 *.lib
-*.obj
 *.pdb
 *.ilk
 *.idb
@@ -44,7 +43,6 @@ CTestTestfile.cmake
 
 out/
 ipch/
-obj/
 *.VC.db
 *.VC.opendb
 
